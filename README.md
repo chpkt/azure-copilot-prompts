@@ -1,5 +1,5 @@
 # Azure Copilot Prompts ☁️🤖
-This repository contains example prompts and scripts to use in [Azure Copilot] (https://learn.microsoft.com/en-us/azure/copilot/)
+This repository contains example prompts and scripts to use in [Azure Copilot](https://learn.microsoft.com/en-us/azure/copilot/)
 
 ## Disclaimer:
 These sample scripts are not supported under any Microsoft standard support program or service. 
