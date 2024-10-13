@@ -1,0 +1,2 @@
+# Azure Copilot Prompt to deploy an IaaS Service hosting a Minetest Server
+Generate a script to deploy a new VM called Minetest-Server-01 with Ubuntu2204 Server OS to a new resource group RG-Demo-Minetest-001 in Germany West Central. The VM should have a public IP address, opened port 30000 for UDP. The admin user name is 'xxx' and the password is 'xxx' Use Azure CLI. Automate the installation of the minetest game server after the VM deployment. Use https://launchpad.net/~minetestdevs/+archive/ubuntu/stable to install latest version. Start the server.
